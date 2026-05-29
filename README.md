@@ -1,5 +1,10 @@
 # Assignment 4 – Intelligent Transport System (Maven Project)
 
+# Group R20
+
+- Charles Betcher
+- Dung Nguyen Viet
+
 ## Overview
 
 This project is a Java Maven application developed for an Intelligent Transport System.  
